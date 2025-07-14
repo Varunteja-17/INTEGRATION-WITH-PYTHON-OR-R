@@ -107,6 +107,6 @@ The following Python visualizations were embedded inside Power BI:
 - This task showed me the power of extending Power BI’s native capabilities with scripting. Using Python enabled better control over data processing and allowed the creation of custom visuals like grouped bar charts, trend lines, and correlation plots. I now understand how data scientists and analysts can combine Python’s strengths with Power BI’s interactivity to build more insightful and advanced dashboards. This experience prepares me for building hybrid analytical solutions in the real world.
 ---
 
-## OUTPUT of the task 4:
+## OUTPUT
 
-![Image]()
+![Image](https://github.com/Varunteja-17/INTEGRATION-WITH-PYTHON-OR-R/blob/main/task-4.jpg)
