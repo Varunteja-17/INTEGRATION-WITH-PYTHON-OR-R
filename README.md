@@ -87,7 +87,6 @@ The following Python visualizations were embedded inside Power BI:
 
 - dataset["Month_Name"] = pd.Categorical(dataset["Month_Name"], categories=["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"], ordered=True)
 - monthly_sales = dataset.groupby("Month_Name")["Sales"].sum().reset_index()
-- 
 - plt.figure(figsize=(10, 5))
 - sns.lineplot(x="Month_Name", y="Sales", data=monthly_sales, marker='o')
 - plt.title("Monthly Sales Trend")
